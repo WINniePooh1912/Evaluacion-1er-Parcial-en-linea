@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Parcial 1</string>
+
+    <string name="title">~Inventario de tornillos~</string>
+    <string name="sku">Código del producto:</string>
+    <string name="material">Material:</string>
+    <string name="length">Longitud:</string>
+    <string name="headShape">Forma de la cabeza:</string>
+
+    <!-- Buttons -->
+    <string name="add">Registrar</string>
+    <string name="search">Buscar</string>
+    <string name="clean">Limpiar</string>
+    <!--    <string name=""></string>-->
+</resources>

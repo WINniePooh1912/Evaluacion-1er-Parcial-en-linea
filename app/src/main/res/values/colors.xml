@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--Parcial #1 App-->
+    <color name="dusty">#F6F6F6</color>
+    <color name="blue">#4F98CA</color>
+    <color name="darker">#212121</color>
+</resources>
